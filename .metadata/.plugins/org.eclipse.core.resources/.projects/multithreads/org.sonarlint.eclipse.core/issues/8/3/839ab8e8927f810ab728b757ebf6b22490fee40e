@@ -1,0 +1,34 @@
+
+‘
+java:S1104"YMake SECOND_THREAD a static final constant or non-public and provide accessors if needed.(Ó“Õçùÿÿÿÿ8ü“Â•Ú.H¹RMINORZ
+CODE_SMELL
+c
+java:S1444"1Make this "public static MAIN_THREAD" field final(€ÕÏ
+8ü“Â•Ú.HºRMINORZ
+CODE_SMELL
+‹
+java:S1104"XMake THIRD_THREAD a static final constant or non-public and provide accessors if needed.(°©Ò¨8ü“Â•Ú.H»RMINORZ
+CODE_SMELL
+
+java:S3008"XRename this field "SECOND_THREAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó“Õçùÿÿÿÿ8ü“Â•Ú.H¼RMINORZ
+CODE_SMELL
+e
+java:S1444"2Make this "public static THIRD_THREAD" field final(°©Ò¨8ü“Â•Ú.H½RMINORZ
+CODE_SMELL
+m
+java:S1118":Add a private constructor to hide the implicit public one.(—ƒ§Ö8ü“Â•Ú.H¾RMAJORZ
+CODE_SMELL
+Š
+java:S3008"WRename this field "THIRD_THREAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°©Ò¨8ü“Â•Ú.H¿RMINORZ
+CODE_SMELL
+‰
+java:S1104"WMake MAIN_THREAD a static final constant or non-public and provide accessors if needed.(€ÕÏ
+8ü“Â•Ú.HÀRMINORZ
+CODE_SMELL
+ˆ
+java:S3008"VRename this field "MAIN_THREAD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€ÕÏ
+8ü“Â•Ú.HÁRMINORZ
+CODE_SMELL
+k
+java:S1444"3Make this "public static SECOND_THREAD" field final(Ó“Õçùÿÿÿÿ8ü“Â•Ú.HÂRMINORZ
+CODE_SMELL

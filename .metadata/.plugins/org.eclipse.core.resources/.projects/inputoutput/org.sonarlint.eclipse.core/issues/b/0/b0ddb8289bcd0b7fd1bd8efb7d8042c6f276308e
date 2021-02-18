@@ -1,0 +1,24 @@
+
+i
+java:S1135,"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8¯ßº†ß.HËRINFOZ
+CODE_SMELL
+y
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(éŠ¤üûÿÿÿÿ8ÚÜİ…ß.HÌRMINORZ
+CODE_SMELL
+Š
+java:S1192"TDefine a constant instead of duplicating this literal "manejo_archivos.txt" 3 times.(¶†¸ 8óƒ©‡ß.HÍRCRITICALZ
+CODE_SMELL
+w
+java:S2147."DCombine this catch with the one at line 43, which has the same body.(ï­£Ä8¯ßº†ß.HÎRMINORZ
+CODE_SMELL
+j	java:S106("9Replace this use of System.out or System.err by a logger.(šÃÚd8¯ßº†ß.HÏRMAJORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8¯ßº†ß.HĞRINFOZ
+CODE_SMELL
+i
+java:S1135/"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ÚÜİ…ß.HÑRINFOZ
+CODE_SMELL
+i
+java:S1135<"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Âù’‡ß.HÒRINFOZ
+CODE_SMELL

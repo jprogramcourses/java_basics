@@ -1,0 +1,35 @@
+
+l	java:S125f"<This block of commented-out lines of code should be removed.(‹‡¬ËùÿÿÿÿHòRMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(æŒôÓÿÿÿÿÿ8Û¡ñëÜ.HóRMAJORZ
+CODE_SMELL
+k	java:S106D"9Replace this use of System.out or System.err by a logger.(Í Õ»8Û¡ñëÜ.HôRMAJORZ
+CODE_SMELL
+l	java:S125{"<This block of commented-out lines of code should be removed.(‹‡¬ËùÿÿÿÿHõRMAJORZ
+CODE_SMELL
+j	java:S106Z"9Replace this use of System.out or System.err by a logger.(²ºÄU8Û¡ñëÜ.HöRMAJORZ
+CODE_SMELL
+g	java:S125M"<This block of commented-out lines of code should be removed.(ä¤ØìH÷RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(‡ºžÚHøRMAJORZ
+CODE_SMELL
+l	java:S125r"<This block of commented-out lines of code should be removed.(‹‡¬ËùÿÿÿÿHùRMAJORZ
+CODE_SMELL
+l	java:S125n"<This block of commented-out lines of code should be removed.(‹‡¬ËùÿÿÿÿHúRMAJORZ
+CODE_SMELL
+l	java:S125c"<This block of commented-out lines of code should be removed.(×ÑûÿÿÿÿÿHûRMAJORZ
+CODE_SMELL
+Š
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰Õ–µûÿÿÿÿHüRMINORZ
+CODE_SMELL
+l	java:S125)"<This block of commented-out lines of code should be removed.(Ý‚žÃþÿÿÿÿHýRMAJORZ
+CODE_SMELL
+l	java:S125l"<This block of commented-out lines of code should be removed.(šËˆŸúÿÿÿÿHþRMAJORZ
+CODE_SMELL
+l	java:S125v"<This block of commented-out lines of code should be removed.(‹‡¬ËùÿÿÿÿHÿRMAJORZ
+CODE_SMELL
+I
+java:S1700"Rename field "locations"(‰Õ–µûÿÿÿÿH€RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÀªýHRMAJORZ
+CODE_SMELL

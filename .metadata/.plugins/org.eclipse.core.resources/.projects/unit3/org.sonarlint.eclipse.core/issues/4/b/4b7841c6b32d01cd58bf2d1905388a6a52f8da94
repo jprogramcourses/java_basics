@@ -1,0 +1,16 @@
+
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8÷¡¹ß.H†
+RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ÿ±³şûÿÿÿÿ8…Ö¹ß.Hƒ
+RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(©°†8êŠ”¹ß.H‡
+RMAJORZ
+CODE_SMELL
+]
+java:S2275"*An 'int' is expected rather than a String.(Õº–Îúÿÿÿÿ8êŠ”¹ß.Hˆ
+RBLOCKERZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Õº–Îúÿÿÿÿ8êŠ”¹ß.H‰
+RMAJORZ
+CODE_SMELL

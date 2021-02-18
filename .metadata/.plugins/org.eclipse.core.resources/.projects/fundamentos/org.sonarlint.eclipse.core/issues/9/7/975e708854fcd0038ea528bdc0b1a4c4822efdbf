@@ -1,0 +1,20 @@
+
+w
+java:S21479"DCombine this catch with the one at line 54, which has the same body.(ï­£Ä8š¬Ÿê.HÛRMINORZ
+CODE_SMELL
+i
+java:S11357"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8£ˆÆŸê.HÜRINFOZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(šÃ³íşÿÿÿÿ8š¬Ÿê.HÙRMAJORZ
+CODE_SMELL
+i
+java:S1135("2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8š¬Ÿê.HØRINFOZ
+CODE_SMELL
+i
+java:S1135:"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8š¬Ÿê.H×RINFOZ
+CODE_SMELL
+r
+java:S1118":Add a private constructor to hide the implicit public one.(§ã¾şÿÿÿÿ8ûò®Ÿê.HÚRMAJORZ
+CODE_SMELL
+p	java:S1064"9Replace this use of System.out or System.err by a logger.(ìÏ™ùÿÿÿÿ8£ˆÆŸê.HÖRMAJORZ
+CODE_SMELL

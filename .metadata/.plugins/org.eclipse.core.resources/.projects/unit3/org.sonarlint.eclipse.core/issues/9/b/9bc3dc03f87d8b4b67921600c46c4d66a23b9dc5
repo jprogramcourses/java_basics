@@ -1,0 +1,11 @@
+
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(ìùÁÿşÿÿÿÿ8ğÁŒà.HåRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(–ã‰ë8àŸÎ‹à.HæRMAJORZ
+CODE_SMELL
+^
+java:S1905 "&Remove this unnecessary cast to "int".(’Ä’ûÿÿÿÿ8”çæ‹à.HçRMINORZ
+CODE_SMELL
+Y
+java:S1905"&Remove this unnecessary cast to "int".(È£Ìó8”çæ‹à.HèRMINORZ
+CODE_SMELL

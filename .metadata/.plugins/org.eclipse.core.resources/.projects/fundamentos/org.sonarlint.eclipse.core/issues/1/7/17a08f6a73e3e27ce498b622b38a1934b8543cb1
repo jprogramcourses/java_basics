@@ -1,0 +1,63 @@
+
+e
+java:S11444"-Remove this unused private "readFile" method.(Èúµíüÿÿÿÿ8ÑÎâ›ê.HÁRMAJORZ
+CODE_SMELL
+p	java:S106f"9Replace this use of System.out or System.err by a logger.(‰»„Úúÿÿÿÿ8“¿’ñ.H¸RMAJORZ
+CODE_SMELL
+d
+java:S1135"2Complete the task associated to this TODO comment.(ÉÚõÎ8×˜–àé.HÂRINFOZ
+CODE_SMELL
+p	java:S1069"9Replace this use of System.out or System.err by a logger.(íåÓƒÿÿÿÿÿ8“¿’ñ.H¶RMAJORZ
+CODE_SMELL
+i
+java:S1135="2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8üÅ½›ê.HÉRINFOZ
+CODE_SMELL
+i
+java:S1135@"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8üÅ½›ê.H·RINFOZ
+CODE_SMELL
+w
+java:S2147?"DCombine this catch with the one at line 60, which has the same body.(ï­£Ä8Šä”àé.HÄRMINORZ
+CODE_SMELL
+V
+java:S1659K"#Declare "count" on a separate line.(öàİÔ8üÅ½›ê.HÆRMINORZ
+CODE_SMELL
+j
+java:S1068"2Remove this unused "IMAGEN_EJEMPLO" private field.(¦ùàÈøÿÿÿÿ8¡íÛê.H¾RMAJORZ
+CODE_SMELL
+
+java:S1192a"TUse already-defined constant 'IMAGEN_EJEMPLO' instead of duplicating its value here.(¥¯é§üÿÿÿÿ8‘Ãê.HÃRCRITICALZ
+CODE_SMELL
+i
+java:S1135W"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8‘Ãê.H´RINFOZ
+CODE_SMELL
+s	java:S125*"<This block of commented-out lines of code should be removed.(úÍë†øÿÿÿÿ8³ÙŒèğ.H¹RMAJORZ
+CODE_SMELL
+p	java:S106Q"9Replace this use of System.out or System.err by a logger.(Î¦Î¬øÿÿÿÿ8“¿’ñ.HºRMAJORZ
+CODE_SMELL
+s	java:S125#"<This block of commented-out lines of code should be removed.(àµ£Æúÿÿÿÿ8à¹­çğ.HµRMAJORZ
+CODE_SMELL
+n
+java:S1144H"6Remove this unused private "readFileIdentifyA" method.(ƒç´…üÿÿÿÿ8Š÷Ãê.H¿RMAJORZ
+CODE_SMELL
+e
+java:S1144_"2Remove this unused private "copyImageFile" method.(²ÆŒ8”ß°Ÿê.HÀRMAJORZ
+CODE_SMELL
+n	java:S125!"<This block of commented-out lines of code should be removed.(½‘Û¸8¡íÛê.HËRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(†€éˆ8×˜–àé.H½RMAJORZ
+CODE_SMELL
+i
+java:S1135T"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Šä”àé.H¼RINFOZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ó¦ò8ÁïÎ ê.HÊRMAJORZ
+CODE_SMELL
+i
+java:S1135h"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8¶§ÕÛé.H»RINFOZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(îÚ¡8×˜–àé.HÇRMAJORZ
+CODE_SMELL
+w
+java:S2147V"DCombine this catch with the one at line 83, which has the same body.(ï­£Ä8üÅ½›ê.HÅRMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ö¿îú8ÑÎâ›ê.HÈRMAJORZ
+CODE_SMELL

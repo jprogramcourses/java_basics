@@ -1,0 +1,15 @@
+
+r
+java:S1118":Add a private constructor to hide the implicit public one.(ÁÖºàÿÿÿÿÿ8÷Ğùˆß.HÌ	RMAJORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Õ‹Á‰ß.HÓ	RINFOZ
+CODE_SMELL
+w
+java:S21477"DCombine this catch with the one at line 53, which has the same body.(ï­£Ä8³’çŠß.Hß	RMINORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(ã©şÿÿÿÿ8³’çŠß.Hà	RMAJORZ
+CODE_SMELL
+i
+java:S11358"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8³’çŠß.Há	RINFOZ
+CODE_SMELL

@@ -1,0 +1,18 @@
+
+
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Çµí‘H®RCRITICALZ
+CODE_SMELL
+d	java:S106&"9Replace this use of System.out or System.err by a logger.(È¯ÌŸH¯RMAJORZ
+CODE_SMELL
+i	java:S106("9Replace this use of System.out or System.err by a logger.(¦Å£ØüÿÿÿÿH°RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ßáì‚üÿÿÿÿH±RMAJORZ
+CODE_SMELL
+d	java:S106;"9Replace this use of System.out or System.err by a logger.(åëúH²RMAJORZ
+CODE_SMELL
+i	java:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿH³RMAJORZ
+CODE_SMELL
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(½¡°‘ùÿÿÿÿ8ªÕçÀÜ.H´RMINORZ
+CODE_SMELL

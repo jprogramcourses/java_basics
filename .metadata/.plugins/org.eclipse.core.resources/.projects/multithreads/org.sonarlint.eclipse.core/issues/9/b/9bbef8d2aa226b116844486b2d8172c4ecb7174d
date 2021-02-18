@@ -1,0 +1,29 @@
+
+[	java:S108%")Either remove or fill this block of code.(ä ¹€8ÌØ¤¡Ú.H”RMAJORZ
+CODE_SMELL
+[	java:S108")Either remove or fill this block of code.(ä ¹€8‘³Å¡Ú.H–RMAJORZ
+CODE_SMELL
+p
+java:S11979"8Move the array designator from the variable to the type.(µ«‹®øÿÿÿÿ8‘³Å¡Ú.H˜RMINORZ
+CODE_SMELL
+r
+java:S2142^"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ßûï»Ú.H°RMAJORZBUG
+r
+java:S2142F"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8ßûï»Ú.H¯RMAJORZBUG
+N
+java:S1700"Rename field "message"(ù„è¿ûÿÿÿÿ8è¸÷ Ú.H•RMAJORZ
+CODE_SMELL
+[	java:S108F")Either remove or fill this block of code.(ä ¹€8è¸÷ Ú.H©RMAJORZ
+CODE_SMELL
+p	java:S106["9Replace this use of System.out or System.err by a logger.(âí’µşÿÿÿÿ8‰ß¥¢Ú.HªRMAJORZ
+CODE_SMELL
+L
+java:S2119W"Save and re-use this "Random".(¼İÅf8‘³Å¡Ú.HRCRITICALZBUG
+r
+java:S2142%"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‰ß¥¢Ú.H£RMAJORZBUG
+L
+java:S2119@"Save and re-use this "Random".(¼İÅf8ı˜¢Ú.HRCRITICALZBUG
+r
+java:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‰úˆ¢Ú.H¨RMAJORZBUG
+[	java:S108^")Either remove or fill this block of code.(ä ¹€8ı˜¢Ú.H™RMAJORZ
+CODE_SMELL

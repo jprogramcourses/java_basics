@@ -1,0 +1,11 @@
+package realworldsoftwdevelop.bankstatements;
+
+public class BankTransactionalAnalyzerSimple {
+
+	public static void main(String[] args) {
+		
+		Path path = 
+
+	}
+
+}

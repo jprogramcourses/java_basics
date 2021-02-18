@@ -1,0 +1,10 @@
+package realworldsoftwdevelop.bankstatements.utils;
+
+
+public class BankStatementCSVParser {
+	
+	public static void parseLinesFromCSV() {
+		
+	}
+
+}

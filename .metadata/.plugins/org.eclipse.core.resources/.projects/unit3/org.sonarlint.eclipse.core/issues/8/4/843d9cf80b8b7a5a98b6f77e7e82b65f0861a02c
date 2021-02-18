@@ -1,0 +1,39 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ïÌK8şÑ¾¹ß.H¬
+RMAJORZ
+CODE_SMELL
+h
+java:S14811"0Remove this unused "tempCelsius" local variable.(åÒ†øÿÿÿÿ8Åõ·Ûß.H³
+RMINORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(ç¯¯Ç8ëÿ«¹ß.Hª
+RMAJORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(ááóİÿÿÿÿÿ8ëÿ«¹ß.H©
+RMAJORZ
+CODE_SMELL
+w
+java:S18541"?Remove this useless assignment to local variable "tempCelsius".(åÒ†øÿÿÿÿ8Åõ·Ûß.H²
+RMAJORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(â¾”’ûÿÿÿÿ8×±©Ûß.H¯
+RMAJORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(¬ŸÒ8‰ÎÚ¹ß.H¥
+RMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(‰¨ê8‰ÎÚ¹ß.H¦
+RMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(â¾”’ûÿÿÿÿ8‰ÎÚ¹ß.H­
+RMAJORZ
+CODE_SMELL
+k	java:S106."9Replace this use of System.out or System.err by a logger.(¬ŸÒ8ö¢Ü¹ß.H¨
+RMAJORZ
+CODE_SMELL
+q
+java:S21841"@Cast one of the operands of this integer division to a "double".(åÒ†øÿÿÿÿ8Åõ·Ûß.H±
+RMINORZBUG
+j	java:S106""9Replace this use of System.out or System.err by a logger.(ª£›?8ëÿ«¹ß.H§
+RMAJORZ
+CODE_SMELL

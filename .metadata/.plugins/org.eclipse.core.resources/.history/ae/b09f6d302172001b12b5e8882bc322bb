@@ -1,0 +1,27 @@
+package realworldsoftwdevelop.bankstatements.utils;
+
+import java.time.LocalDate;
+import java.time.format.DateTimeFormatter;
+
+import realworldsoftwdevelop.bankstatements.entity.BankTransaction;
+
+public class BankStatementCSVParser {
+	
+	private static final DateTimeFormatter DATE_PATTERN = DateTimeFormatter.ofPattern("dd-MM-yyyy");
+	
+	private static BankTransaction parseBankTransaction(String line) {
+		if(line != null && !"".equals(line)) {
+			String[] bankArray = line.split(",");
+			LocalDate localDate = LocalDate.parse(bankArray[0], DATE_PATTERN);
+			Double amount = Double.parseDouble(bankArray[1]);
+			String description = bankArray[2];
+			return new BankTransaction(localDate, amount, description);
+		}
+		return null;
+	}
+	
+	public static void parseLinesFromCSV() {
+		
+	}
+
+}

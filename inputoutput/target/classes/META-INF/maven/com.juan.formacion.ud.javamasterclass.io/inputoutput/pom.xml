@@ -12,8 +12,7 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <java.version>1.8</java.version>
-    <source.directory>src</source.directory>
+    <java.version>11</java.version>
   </properties>
 
   <dependencies>
@@ -26,7 +25,6 @@
   </dependencies>
   
   <build>
-    <sourceDirectory>${source.directory}</sourceDirectory>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>

@@ -7,11 +7,11 @@ import java.util.List;
 
 import realworldsoftwdevelop.bankstatements.entity.BankTransaction;
 
-public class BankStatementCSVParser {
+public class BankStatementCSVParser implements IBankStatementParser{
 	
 	private static final DateTimeFormatter DATE_PATTERN = DateTimeFormatter.ofPattern("dd-MM-yyyy");
 	
-	private BankTransaction parseBankTransaction(final String line) {
+	public BankTransaction parseBankTransaction(final String line) {
 		if(line != null && !"".equals(line)) {
 			final String[] bankArray = line.split(",");
 			final LocalDate localDate = LocalDate.parse(bankArray[0], DATE_PATTERN);

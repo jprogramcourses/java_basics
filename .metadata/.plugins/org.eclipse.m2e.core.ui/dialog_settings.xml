@@ -65,12 +65,15 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="com.juan.exercises"/>
 			<item value="com.juan.pruebas"/>
 			<item value="com.juan.practicas"/>
 		</list>
 		<list key="name">
+			<item value="java8apress"/>
 		</list>
 		<list key="artifactId">
+			<item value="java8apress"/>
 			<item value="archetype_maven"/>
 			<item value="mavenarchetyp"/>
 			<item value="prueba"/>

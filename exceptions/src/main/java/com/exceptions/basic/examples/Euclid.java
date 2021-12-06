@@ -1,8 +1,14 @@
 package com.exceptions.basic.examples;
 
+import org.apache.log4j.Logger;
+
+import com.exceptions.basic.examples.exceptions.EuclidExceptions;
+
 public class Euclid {
 
-    public static void euclid(String args[]) throws SecurityException {
+    private static Logger LOGGER = Logger.getLogger(Euclid.class);
+
+    public static void euclid(String args[]) throws EuclidExceptions {
 	int a = 2701;
 	int b = 222;
 	if (args != null && args.length == 2) {
@@ -21,7 +27,10 @@ public class Euclid {
 	    }
 	} else {
 	    System.err.println("Wrong number of arguments. Using defaults");
-	    throw new SecurityException("Error de seguridad");
+	    LOGGER.info("Incorrect number of arguments " + args.length);
+	    assert (args.length > 2) : "Wrong number of arguments. Assert";
+	    EuclidExceptions ee = new EuclidExceptions("Error en el método de Euclides", 10);
+	    throw ee;
 	}
 	System.out.println("The GCD of " + a + " and " + b + "is ");
 	while (b != 0) {

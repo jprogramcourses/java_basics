@@ -6,11 +6,18 @@
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
-		<item key="selection" value="\\"/>
+		<item key="selection" value="findItCodeWars2"/>
 		<list key="findhistory">
+			<item value="findItCodeWars"/>
+			<item value="findIt"/>
+			<item value="FindOdd"/>
+			<item value=" FindOdd.findIt(new int[]{20,1,-1,2,-2,3,3,5,5,1,2,4,20,4,-1,-2,5})); "/>
 			<item value="\\\\"/>
 		</list>
 		<list key="replacehistory">
+			<item value="findItCodeWars2"/>
+			<item value="findItCodeWars"/>
+			<item value="MainMaps"/>
 			<item value="\\"/>
 		</list>
 	</section>

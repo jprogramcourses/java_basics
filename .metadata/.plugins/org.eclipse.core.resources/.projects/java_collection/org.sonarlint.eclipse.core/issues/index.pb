@@ -17,3 +17,17 @@ V
 &src/java_collection/maps/MainMaps.java,b\1\b17d0731e0aec7350bab9ed2b751c5ee777182db
 [
 +src/java_collection/maps/PruebaHashMap.java,f\f\ffa8a1af350eb0a680a41b52af8ba400929ac209
+Z
+*src/java_collection/maps/MainMapsTest.java,a\a\aa799245d6580527cf0fb01870eea250de5fe7f8
+z
+Jsrc/java_collection/collectioninterface/CollectionInterfaceOperations.java,8\c\8caca492ad8d0fd4ffdfaa995575862c646f03a9
+t
+Dsrc/java_collection/collectioninterface/CollectionInterfaceMain.java,a\8\a861566f26525a890338359141c7ea0671646101
+^
+.src/java_collection/hashcodeequals/Circle.java,6\8\6817e311a58ffe70721ac983fa2cf5be51311e06
+h
+8src/java_collection/sets/sortedset/PruebasSortedSet.java,2\3\232f29f4ade32cdfa2ff6a55429f750dc8881cc0
+f
+6src/java_collection/collections/PruebaCollections.java,e\3\e37911376fd87a4c1440a9d11ff8f894156712c6
+i
+9src/java_collection/streams/StreamsLambdaExpressions.java,5\7\574a5f11c2cb4fa7b275b4f4167d3a2e69b661cd

@@ -1,4 +1,21 @@
 
-b
-java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿHŞRINFOZ
+r
+java:S2175!"GA "Map<String, Integer>" cannot contain a "String" in a "Integer" type.(¶ÈH8Ñ‚Ú ¯/HÜ9RMAJORZBUG
+p	java:S106("9Replace this use of System.out or System.err by a logger.(Ø‡¼¼ÿÿÿÿÿ8µÏì ¯/Hß9RMAJORZ
+CODE_SMELL
+p
+java:S1854"=Remove this useless assignment to local variable "singleton".(Á‹ñ®8£ñ¤ ¯/Hİ9RMAJORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(àÇò8Ñ‚Ú ¯/HÚ9RMAJORZ
+CODE_SMELL
+]
+java:S1481"*Remove this unused "empty" local variable.(ó•âü8£ñ¤ ¯/HÛ9RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Úø®ì8ÅŸ» ¯/HÙ9RMAJORZ
+CODE_SMELL
+l
+java:S1854"9Remove this useless assignment to local variable "empty".(ó•âü8£ñ¤ ¯/HŞ9RMAJORZ
+CODE_SMELL
+a
+java:S1481".Remove this unused "singleton" local variable.(Á‹ñ®8£ñ¤ ¯/Hà9RMINORZ
 CODE_SMELL

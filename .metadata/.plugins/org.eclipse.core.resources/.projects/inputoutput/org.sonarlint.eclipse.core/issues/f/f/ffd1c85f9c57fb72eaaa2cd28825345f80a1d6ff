@@ -1,22 +1,22 @@
 
-p	java:S899b";Do something with the "boolean" value returned by "delete".(„ØÊã8ë£ßß.HRMINORZVULNERABILITY
-k	java:S106c"9Replace this use of System.out or System.err by a logger.(â˜ÊÓ8ë£ßß.H‘RMAJORZ
+k	java:S106c"9Replace this use of System.out or System.err by a logger.(â˜ÊÓ8ë£ßß.HœIRMAJORZ
 CODE_SMELL
-i
-java:S11354"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8äÆŞß.H’RINFOZ
-CODE_SMELL
-w
-java:S2147'"DCombine this catch with the one at line 37, which has the same body.(ï­£Ä8ŠÁ Şß.H“RMINORZ
-CODE_SMELL
-p	java:S1062"9Replace this use of System.out or System.err by a logger.(®úªüÿÿÿÿ8Ò±ÈŞß.H”RMAJORZ
+p	java:S106Y"9Replace this use of System.out or System.err by a logger.(“ûÂüÿÿÿÿ8´ü‹ßß.HIRMAJORZ
 CODE_SMELL
 z
-java:S2095?"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ëé–8Ñ„ßß.H•RBLOCKERZBUG
-|
-java:S24792"ARemove the non-escaped \u0009 character from this string literal.(®úªüÿÿÿÿ8îáÌŞß.H–RCRITICALZ
+java:S2095?"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ëé–8Ñ„ßß.HIRBLOCKERZBUG
+w
+java:S2147'"DCombine this catch with the one at line 37, which has the same body.(ï­£Ä8ŠÁ Şß.HŸIRMINORZ
+CODE_SMELL
+u
+java:S24792":Remove the non-escaped \u0009 character from this literal.(®úªüÿÿÿÿ8îáÌŞß.H¡IRCRITICALZ
+CODE_SMELL
+p	java:S899b";Do something with the "boolean" value returned by "delete".(„ØÊã8ë£ßß.H¢IRMINORZVULNERABILITY
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(®úªüÿÿÿÿ8Ò±ÈŞß.H£IRMAJORZ
 CODE_SMELL
 
-java:S4042b"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(„ØÊã8ë£ßß.H—RMAJORZ
+java:S4042b"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(„ØÊã8ë£ßß.H¤IRMAJORZ
 CODE_SMELL
-p	java:S106Y"9Replace this use of System.out or System.err by a logger.(“ûÂüÿÿÿÿ8´ü‹ßß.H˜RMAJORZ
+i
+java:S11354"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8äÆŞß.H¥IRINFOZ
 CODE_SMELL

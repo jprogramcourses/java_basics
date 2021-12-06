@@ -1,6 +1,7 @@
 package com.exceptions.basic;
 
 import com.exceptions.basic.examples.Euclid;
+import com.exceptions.basic.examples.exceptions.EuclidExceptions;
 
 public class MainBasicExceptions {
 
@@ -8,9 +9,10 @@ public class MainBasicExceptions {
 
 	try {
 	    Euclid.euclid(args);
-	} catch (SecurityException e) {
+	} catch (EuclidExceptions e) {
 	    System.out.println("Controlado un error de seguridad");
 	    e.printStackTrace();
+	    e.getLineNumber();
 	}
 
     }

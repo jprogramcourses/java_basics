@@ -33,5 +33,15 @@ bsrc/main/java/com/juan/formacion/ud/global/archivos/laboratfinal/excepciones/Es
 `src/main/java/com/juan/formacion/ud/global/archivos/laboratfinal/negocio/ICatalogoPeliculas.java,d\7\d78a66d0c1cca9d9157dd72d0459341de20e23de
 “
 csrc/main/java/com/juan/formacion/ud/global/archivos/laboratfinal/negocio/CatalogoPeliculasImpl.java,2\d\2d17ce470d33fc8106b0f08410d99024112f9850
-
-Osrc/test/java/com/juan/formacion/ud/javamasterclass/io/inputoutput/AppTest.java,d\a\dafcd292748f2d9bd84615691182eb6f222a4ad1
+v
+Fsrc/main/java/com/juan/formacion/cookbook/readfiles/MainReadFiles.java,8\0\80a46574de30d8499e2a97d9accc07d637611bfc
+t
+Dsrc/main/java/com/juan/formacion/cookbook/readfiles/ExReadFiles.java,2\a\2add95521e30fc253101a8c0a7e6e29901ecbc43
+>
+directions.txt,4\9\493eef6535c075af75785d254ff3c63a7585a767
+‡
+Wsrc/main/java/com/juan/formacion/cookbook/io/printwithformatter/MainPrintFormatter.java,0\5\05dfa9ed704651c1752b01e15dad62d729fbb55d
+‚
+Rsrc/main/java/com/juan/formacion/cookbook/io/printwithformatter/FormatterDemo.java,3\9\39906874e34d5f20b498447280dfb22608741942
+ƒ
+Ssrc/main/java/com/juan/formacion/cookbook/io/printwithformatter/FormatterDates.java,b\f\bf28f9540214f03d327162ada7fc7f0944a83386

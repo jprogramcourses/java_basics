@@ -8,6 +8,8 @@ public class Pract1Concurrency {
 	Runtime r = Runtime.getRuntime();
 	int numOfHardwareThreads = r.availableProcessors();
 
+	System.out.println("Number of hardware threads: " + numOfHardwareThreads);
+
     }
 
 }
